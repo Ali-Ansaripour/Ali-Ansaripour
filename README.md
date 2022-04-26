@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali-Ansaripour
-- 👀 I’m interested in progrming and Linux :D
-- 🌱 I’m currently learning python and Dev-Ops .
+- 👀 I’m interested in **progrmming** and **Linux** :D
+- 🌱 I’m currently learning **python** and **Dev-Ops** .
 - 📫 Contact me : 
 - ansaripourali.org@gmail.com
 
